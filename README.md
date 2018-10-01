@@ -38,9 +38,8 @@ npm install phaser@3.13.0
 
 ## Author
 
-* **Ernest Chakhoyan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ernest Chakhoyan** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
